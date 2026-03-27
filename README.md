@@ -30,13 +30,18 @@ Task-3 coding practice platforms and cloud collaboration tools.
 <br>
 Part A: Coding Practice (HackerRank)
 <br>
+<br>
 To build on my technical skills, I used HackerRank, a coding website, to practice coding in Python. I completed all the "Python Introduction" challenges, specifically on fundamental concepts such as:
+<br>
 <br>
 Arithmetic Operators: Applying fundamental mathematical logic.
 <br>
+<br>
 Loops: Applying loops for solving repetitive problems, such as calculating squares of numbers.
 <br>
+<br>
 Problem Solving: Translating problem statements into clean, executable code.
+<br>
 <br>
 With this, I received a "Progress" badge, indicating that I can effectively deal with standard input/output and logic-related issues in a competitive coding context.
 <br>
@@ -47,11 +52,15 @@ Part B: Google Workspace Collaboration
 <br>
 To build on my digital literacy skills, I created a "Digital Literacy Awareness Quiz" using Google Forms, targeting batchmates in navigating the digital world.
 <br>
+<br>
 Collaboration Tool: Google Forms & Google Sheets.
+<br>
 <br>
 Content: The quiz includes a range of questions, both MCQ and short answers, on digital literacy concepts such as phishing, password management, and digital footprint.
 <br>
+<br>
 Impact: This tool has immense potential for real-time data collection on common digital literacy gaps, which can then be easily analyzed using a linked Google Sheet for batchmate guidance.
+<br>
 <br>
 <br>
 GOOGLE FORM LINK 
