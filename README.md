@@ -27,29 +27,31 @@ Over the four years I will use these websites to show how I am growing. First I 
 Task-3 coding practice platforms and cloud collaboration tools.
 <br>
 <br>
+<br>
 Part A: Coding Practice (HackerRank)
 <br>
+To build on my technical skills, I used HackerRank, a coding website, to practice coding in Python. I completed all the "Python Introduction" challenges, specifically on fundamental concepts such as:
 <br>
-To strengthen my technical foundation, I utilized HackerRank to practice Python programming. I successfully completed the "Python Introduction" challenges, focusing on core concepts such as:
-
-Arithmetic Operators: Implementing basic mathematical logic.
-
-Loops: Using iteration to solve repetitive tasks (squares of numbers).
-
-Problem-Solving: Translating task requirements into clean, executable code.
-
-Through these exercises, I earned a progress badge, demonstrating my ability to handle standard input/output and logical constraints in a competitive coding environment.
-
+Arithmetic Operators: Applying fundamental mathematical logic.
+<br>
+Loops: Applying loops for solving repetitive problems, such as calculating squares of numbers.
+<br>
+Problem Solving: Translating problem statements into clean, executable code.
+<br>
+With this, I received a "Progress" badge, indicating that I can effectively deal with standard input/output and logic-related issues in a competitive coding context.
+<br>
+<br>
+<br>
 Part B: Google Workspace Collaboration
 <br>
 <br>
-I developed a Digital Literacy Awareness Quiz using Google Forms to assist batchmates in navigating the digital landscape safely.
-
+To build on my digital literacy skills, I created a "Digital Literacy Awareness Quiz" using Google Forms, targeting batchmates in navigating the digital world.
+<br>
 Collaboration Tool: Google Forms & Google Sheets.
-
-Content: The quiz features a mix of multiple-choice and short-answer questions covering topics like phishing, password security, and digital footprints.
-
-Impact: This tool allows for real-time data collection and assessment of common digital knowledge gaps, which can then be analyzed via the linked Google Sheet for targeted peer guidance.
+<br>
+Content: The quiz includes a range of questions, both MCQ and short answers, on digital literacy concepts such as phishing, password management, and digital footprint.
+<br>
+Impact: This tool has immense potential for real-time data collection on common digital literacy gaps, which can then be easily analyzed using a linked Google Sheet for batchmate guidance.
 <br>
 <br>
 GOOGLE FORM LINK 
