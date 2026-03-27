@@ -19,3 +19,11 @@ I think making this infographic was an experience. I learned a lot, about litera
 Task-2 Portfolio
 <br>
 <br>
+I want to create an online presence. So I have chosen GitHub, LinkedIn and Kaggle as my websites. Each one helps me in a way as a Computer Science student. GitHub is where I keep all my project codes. It shows that I am good with computers. Kaggle is where I work on Artificial Intelligence and Machine Learning. I use data and compare my work to others. LinkedIn is where I connect with people in my field. I share my work. See what is happening in the job market.
+
+Over the four years I will use these websites to show how I am growing. First I will share what I learn in class. I will put links to my projects on GitHub. As I get closer, to finishing school I will focus on making my GitHub page look good and doing well on Kaggle. I want to keep updating my profiles so that when I graduate I can show people what I can do. By the time I am looking for a job I want my presence to show that I am an expert and that I work hard. I want GitHub, LinkedIn and Kaggle to show that I am a career- professional.
+<br>
+<br>
+Task-3 coding practice platforms and cloud collaboration tools.
+<br>
+<br>
