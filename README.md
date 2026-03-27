@@ -79,3 +79,20 @@ The first task entails writing a formal request to a professor for an assignment
 The next task entails writing an internship inquiry letter to a corporate coordinator. In this task, the key is being concise by stating skills and interest in the company, as well as being "action-oriented" by being respectful in tone. The drafts are assessed based on the clarity of the subject line, formal greetings, and formal closings, which prove that the power of concise communication lies in being well-organized rather than being long-winded in the explanation.
 <br>
 <br>
+The Part-B(1) section is about digital citizenship and the lasting impact of a student's online presence. First is the Social Media Do's and Don'ts checklist that offers practical tips on how to manage online privacy, brand yourself online using LinkedIn, and steer clear of flame wars and emotional sharing.
+<br>
+<br>
+Part-B(2) The Impact of Poor Communication
+<br>
+<br>
+The "Reply All" nightmare is one of the biggest blunders in digital communication. For instance, a manager sends a company-wide email to all 500 employees regarding a small change in policy. One employee, frustrated by their own salary, "Reply All"s to vent about their situation. This usually creates a "mail storm" where all the people in the company respond to point out their mistake, ruining their professional reputation in an instant.
+<br>
+What could have been done differently?
+<br>
+The Sender: Use BCC when sending emails to a large number of people. This ensures that no one in the email chain sees all the email addresses, thus preventing a "Reply All" chain.
+<br>
+<br>
+The Responder: Follow a "five-second check" before sending a reply to ensure that you're in a one-on-one conversation.
+<br>
+<br>
+The Platform: Use a threaded communication platform like Slack for non-urgent company updates.
