@@ -87,7 +87,9 @@ Part-B(2) The Impact of Poor Communication
 <br>
 The "Reply All" nightmare is one of the biggest blunders in digital communication. For instance, a manager sends a company-wide email to all 500 employees regarding a small change in policy. One employee, frustrated by their own salary, "Reply All"s to vent about their situation. This usually creates a "mail storm" where all the people in the company respond to point out their mistake, ruining their professional reputation in an instant.
 <br>
+<br>
 What could have been done differently?
+<br>
 <br>
 The Sender: Use BCC when sending emails to a large number of people. This ensures that no one in the email chain sees all the email addresses, thus preventing a "Reply All" chain.
 <br>
