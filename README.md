@@ -70,3 +70,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSd_4bFPw7w0qHwM_90tIyD2UVFLZa11GugZLj7y
 Task-4
 <br>
 <br>
+Part A centers on the mastery of professional correspondence in the context of two high-stakes academic and career-based scenarios.
+<br>
+The first task entails writing a formal request to a professor for an assignment extension. The key in this task is being transparent by providing a valid reason without being too personal, as well as being proactive by setting a new deadline.
+<br>
+The next task entails writing an internship inquiry letter to a corporate coordinator. In this task, the key is being concise by stating skills and interest in the company, as well as being "action-oriented" by being respectful in tone. The drafts are assessed based on the clarity of the subject line, formal greetings, and formal closings, which prove that the power of concise communication lies in being well-organized rather than being long-winded in the explanation.
+<br>
