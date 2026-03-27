@@ -27,7 +27,6 @@ Over the four years I will use these websites to show how I am growing. First I 
 Task-3 coding practice platforms and cloud collaboration tools.
 <br>
 <br>
-<br>
 Part A: Coding Practice (HackerRank)
 <br>
 <br>
