@@ -27,4 +27,30 @@ Over the four years I will use these websites to show how I am growing. First I 
 Task-3 coding practice platforms and cloud collaboration tools.
 <br>
 <br>
+Part A: Coding Practice (HackerRank)
+<br>
+<br>
+To strengthen my technical foundation, I utilized HackerRank to practice Python programming. I successfully completed the "Python Introduction" challenges, focusing on core concepts such as:
+
+Arithmetic Operators: Implementing basic mathematical logic.
+
+Loops: Using iteration to solve repetitive tasks (squares of numbers).
+
+Problem-Solving: Translating task requirements into clean, executable code.
+
+Through these exercises, I earned a progress badge, demonstrating my ability to handle standard input/output and logical constraints in a competitive coding environment.
+
+Part B: Google Workspace Collaboration
+<br>
+<br>
+I developed a Digital Literacy Awareness Quiz using Google Forms to assist batchmates in navigating the digital landscape safely.
+
+Collaboration Tool: Google Forms & Google Sheets.
+
+Content: The quiz features a mix of multiple-choice and short-answer questions covering topics like phishing, password security, and digital footprints.
+
+Impact: This tool allows for real-time data collection and assessment of common digital knowledge gaps, which can then be analyzed via the linked Google Sheet for targeted peer guidance.
+<br>
+<br>
+GOOGLE FORM LINK 
 https://docs.google.com/forms/d/e/1FAIpQLSd_4bFPw7w0qHwM_90tIyD2UVFLZa11GugZLj7ypG-t85b1sw/viewform?usp=publish-editor
