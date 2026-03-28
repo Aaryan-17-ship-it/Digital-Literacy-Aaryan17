@@ -98,3 +98,35 @@ The Responder: Follow a "five-second check" before sending a reply to ensure tha
 <br>
 <br>
 The Platform: Use a threaded communication platform like Slack for non-urgent company updates.
+<br>
+<br>
+Task-5 Cybercrime Awareness Case Study & Prevention Guide
+<br>
+<br>
+Part A: Case Study – UPI Payment Fraud
+<br>
+The Scenario:
+<br>
+The "Double Payment" Trap
+<br>
+Arjun, a college student, listed his old laptop on a popular online marketplace. Within an hour of posting the ad, a "buyer" called him and agreed to buy the laptop at the listed price without any negotiations. He claimed to be sending a dynamic QR code via WhatsApp to "pre-pay" a deposit.
+<br>
+<br>
+**How it Happens (Step-by-Step):**
+<br>
+<br>
+**The Hook:** The fraudster acts like an eager buyer who is not fussy about the price.
+<br>
+<br>
+**The Deception:** He/she sends a QR code or a "Collect Request" via a UPI app (like GPay or PhonePe), claiming it is to receive money.
+<br>
+<br>
+**The Error:** Arjun, being a first-time buyer and in a hurry to complete the sale, scans the code and enters his UPI PIN.
+<br>
+<br>
+**The Theft:** Instead of receiving money, the PIN enters a debit transaction from Arjun's account. The fraudster immediately blocks Arjun's phone number.
+<br>
+<br>
+**Target & Consequences:**
+<br>
+Young adults and digital newbies are the primary target group for this type of fraud. Apart from losing money—₹5,000 in this case—another impact of this type of fraud is a loss of digital literacy and the potential for the fraudster to use Arjun’s phone number for future phishing attempts.
