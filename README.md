@@ -16,6 +16,8 @@ The hard part was figuring out what to put in and what to leave out. I had to ma
 I think making this infographic was an experience. I learned a lot, about literacy and how to make something that is easy to read. My infographic "BE A SMART STUDENT: YOUR DIGITAL LITERACY GUIDE " is something that I'm proud of.
 <br>
 <br>
+<br>
+<br>
 Task-2 Portfolio
 <br>
 <br>
