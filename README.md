@@ -105,9 +105,9 @@ Task-5 Cybercrime Awareness Case Study & Prevention Guide
 <br>
 Part A: Case Study – UPI Payment Fraud
 <br>
-The Scenario:
 <br>
-The "Double Payment" Trap
+The Scenario: The "Double Payment" Trap
+<br>
 <br>
 Arjun, a college student, listed his old laptop on a popular online marketplace. Within an hour of posting the ad, a "buyer" called him and agreed to buy the laptop at the listed price without any negotiations. He claimed to be sending a dynamic QR code via WhatsApp to "pre-pay" a deposit.
 <br>
