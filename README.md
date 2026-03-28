@@ -18,6 +18,8 @@ I think making this infographic was an experience. I learned a lot, about litera
 <br>
 <br>
 <br>
+<br>
+<br>
 Task-2 Portfolio
 <br>
 <br>
@@ -26,7 +28,12 @@ I want to create an online presence. So I have chosen GitHub, LinkedIn and Kaggl
 Over the four years I will use these websites to show how I am growing. First I will share what I learn in class. I will put links to my projects on GitHub. As I get closer, to finishing school I will focus on making my GitHub page look good and doing well on Kaggle. I want to keep updating my profiles so that when I graduate I can show people what I can do. By the time I am looking for a job I want my presence to show that I am an expert and that I work hard. I want GitHub, LinkedIn and Kaggle to show that I am a career- professional.
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 Task-3 coding practice platforms and cloud collaboration tools.
+<br>
 <br>
 <br>
 Part A: Coding Practice (HackerRank)
@@ -69,10 +76,15 @@ GOOGLE FORM LINK
 https://docs.google.com/forms/d/e/1FAIpQLSd_4bFPw7w0qHwM_90tIyD2UVFLZa11GugZLj7ypG-t85b1sw/viewform?usp=publish-editor
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 Task-4 Professional Email & Etiquette Guide
 <br>
 <br>
 Part A centers on the mastery of professional correspondence in the context of two high-stakes academic and career-based scenarios.
+<br>
 <br>
 <br>
 The first task entails writing a formal request to a professor for an assignment extension. The key in this task is being transparent by providing a valid reason without being too personal, as well as being proactive by setting a new deadline.
@@ -81,10 +93,12 @@ The first task entails writing a formal request to a professor for an assignment
 The next task entails writing an internship inquiry letter to a corporate coordinator. In this task, the key is being concise by stating skills and interest in the company, as well as being "action-oriented" by being respectful in tone. The drafts are assessed based on the clarity of the subject line, formal greetings, and formal closings, which prove that the power of concise communication lies in being well-organized rather than being long-winded in the explanation.
 <br>
 <br>
+<br>
 The Part-B(1) section is about digital citizenship and the lasting impact of a student's online presence. First is the Social Media Do's and Don'ts checklist that offers practical tips on how to manage online privacy, brand yourself online using LinkedIn, and steer clear of flame wars and emotional sharing.
 <br>
 <br>
 Part-B(2) The Impact of Poor Communication
+<br>
 <br>
 <br>
 The "Reply All" nightmare is one of the biggest blunders in digital communication. For instance, a manager sends a company-wide email to all 500 employees regarding a small change in policy. One employee, frustrated by their own salary, "Reply All"s to vent about their situation. This usually creates a "mail storm" where all the people in the company respond to point out their mistake, ruining their professional reputation in an instant.
@@ -102,10 +116,16 @@ The Responder: Follow a "five-second check" before sending a reply to ensure tha
 The Platform: Use a threaded communication platform like Slack for non-urgent company updates.
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 Task-5 Cybercrime Awareness Case Study & Prevention Guide
 <br>
 <br>
+<br>
 Part A: Case Study – UPI Payment Fraud
+<br>
 <br>
 <br>
 The Scenario: The "Double Payment" Trap
@@ -135,6 +155,7 @@ Young adults and digital newbies are the primary target group for this type of f
 <br>
 <br>
 Part B: Quick Prevention Checklist 
+<br>
 <br>
 <br>
 To protect yourself from payment fraud like the "Double Payment" scam, follow these essential preventive steps:
