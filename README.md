@@ -124,7 +124,6 @@ Task-5 Cybercrime Awareness Case Study & Prevention Guide
 Part A: Case Study – UPI Payment Fraud
 <br>
 <br>
-<br>
 The Scenario: The "Double Payment" Trap
 <br>
 <br>
@@ -151,8 +150,8 @@ Arjun, a college student, listed his old laptop on a popular online marketplace.
 Young adults and digital newbies are the primary target group for this type of fraud. Apart from losing money—₹5,000 in this case—another impact of this type of fraud is a loss of digital literacy and the potential for the fraudster to use Arjun’s phone number for future phishing attempts.
 <br>
 <br>
-Part B: Quick Prevention Checklist 
 <br>
+Part B: Quick Prevention Checklist 
 <br>
 <br>
 To protect yourself from payment fraud like the "Double Payment" scam, follow these essential preventive steps:
