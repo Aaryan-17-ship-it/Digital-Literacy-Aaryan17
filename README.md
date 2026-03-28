@@ -85,8 +85,6 @@ Task-4 Professional Email & Etiquette Guide
 <br>
 Part A centers on the mastery of professional correspondence in the context of two high-stakes academic and career-based scenarios.
 <br>
-<br>
-<br>
 The first task entails writing a formal request to a professor for an assignment extension. The key in this task is being transparent by providing a valid reason without being too personal, as well as being proactive by setting a new deadline.
 <br>
 <br>
@@ -97,9 +95,8 @@ The next task entails writing an internship inquiry letter to a corporate coordi
 The Part-B(1) section is about digital citizenship and the lasting impact of a student's online presence. First is the Social Media Do's and Don'ts checklist that offers practical tips on how to manage online privacy, brand yourself online using LinkedIn, and steer clear of flame wars and emotional sharing.
 <br>
 <br>
+<br>
 Part-B(2) The Impact of Poor Communication
-<br>
-<br>
 <br>
 The "Reply All" nightmare is one of the biggest blunders in digital communication. For instance, a manager sends a company-wide email to all 500 employees regarding a small change in policy. One employee, frustrated by their own salary, "Reply All"s to vent about their situation. This usually creates a "mail storm" where all the people in the company respond to point out their mistake, ruining their professional reputation in an instant.
 <br>
