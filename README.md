@@ -130,3 +130,20 @@ Arjun, a college student, listed his old laptop on a popular online marketplace.
 **Target & Consequences:**
 <br>
 Young adults and digital newbies are the primary target group for this type of fraud. Apart from losing money—₹5,000 in this case—another impact of this type of fraud is a loss of digital literacy and the potential for the fraudster to use Arjun’s phone number for future phishing attempts.
+<br>
+<br>
+Part B: Quick Prevention Checklist 
+<br>
+<br>
+To protect yourself from payment fraud like the "Double Payment" scam, follow these essential preventive steps:
+<br>
+1.) Never Enter PIN to Receive: The first and the most important thing is that, as per the UPI guidelines, the PIN is only required when you want to send money or check the account balance. Therefore, if someone asks you to enter the PIN for the purpose of "receiving" the money, then this is 100% a scam.
+<br>
+<br>
+2.) Avoid Unknown QR Codes: Never scan the QR codes sent over WhatsApp or SMS by unknown persons. Scammers use this trick to initiate "Collect Requests" using the UPI account.
+<br>
+<br>
+3.) Verify Merchant Names: Before clicking the "Pay" button, always check the name displayed in the UPI app. Scammers use names like "Verified Buyer" for this purpose.
+<br>
+<br>
+4.) Limit Screen Sharing: Never use any apps like AnyDesk or TeamViewer while doing any transactions, as the scammer will be able to see the credentials in real-time.
