@@ -166,3 +166,14 @@ To protect yourself from payment fraud like the "Double Payment" scam, follow th
 <br>
 <br>
 4.) Limit Screen Sharing: Never use any apps like AnyDesk or TeamViewer while doing any transactions, as the scammer will be able to see the credentials in real-time.
+<br>
+<br>
+Task-5 Overveiw
+<br>
+<br>
+Reflection: Cybercrime Awareness Research
+<br>
+The biggest surprise that came out of this research was how sophisticated social engineering was compared to technical hacking. While one might think that hacking into a system requires coding or going around the firewall, it appears that many modern forms of UPI fraud are actually accomplished by playing on human psychology—namely, by creating a sense of urgency and trust. It was interesting to see how "Collect Requests" can be used to turn the tables on the victim by making them think they are receiving money when really they are debiting it. It was a big revelation for me to see how the human factor was really the weak link in the security chain.
+<br>
+<br>
+One of the direct outcomes of this project is that I am changing the way I handle digital authentication. Now, I am committed to using a password manager to ensure that all of my accounts are protected by unique and complex passwords. Furthermore, I am committed to enabling biometric-based lock screens for my UPI and banking applications. Going forward, I am also committed to a "zero-trust" approach for any unsolicited links or payment requests, regardless of the apparent legitimacy of the source.
